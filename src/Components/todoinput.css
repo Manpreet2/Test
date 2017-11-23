@@ -1,0 +1,17 @@
+button.btn.btn-primary {
+    border: 2px solid #0ca8ef;
+    padding: 10px 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+    background: #0da8ef;
+    color: #ffffff;
+}
+input[type="text"] {
+	border: 2px solid #0ca8ef;
+    padding: 10px 0px;
+    font-size: 16px;
+    text-transform: uppercase;
+    background: transparent;
+    color: #0ca8ef;
+    padding-left: 10px;
+}
